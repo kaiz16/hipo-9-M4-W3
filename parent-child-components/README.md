@@ -1,4 +1,4 @@
-# single-file-components
+# parent-child-components
 
 ## Project setup
 ```

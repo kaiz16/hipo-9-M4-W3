@@ -1,4 +1,4 @@
-# demo-router
+# pets-app
 
 ## Project setup
 ```
